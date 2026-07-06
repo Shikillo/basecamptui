@@ -52,6 +52,7 @@ cargo run
 Local data (cache, favorites, staged entries) is stored under your platform's data
 directory (e.g. `~/.local/share/`).
 
-## License
+## Credits
 
-MIT
+Based on and inspired by
+[arturtcoelho/basecamp-timesheets-filler](https://github.com/arturtcoelho/basecamp-timesheets-filler/).

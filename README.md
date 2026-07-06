@@ -56,3 +56,5 @@ directory (e.g. `~/.local/share/`).
 
 Based on and inspired by
 [arturtcoelho/basecamp-timesheets-filler](https://github.com/arturtcoelho/basecamp-timesheets-filler/).
+
+Built with the help of [Claude Code](https://claude.com/claude-code).
